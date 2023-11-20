@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">TrendyolDemo1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- AnasayfaFragment Text -->
+    <string name="hintSearchMess">Marka,ürün veya kategori ara</string>
+    <string name="kesfet_btn">Keşfet</string>
+    <string name="erkek_btn">Erkek</string>
+    <string name="kadin_btn">Kadın</string>
+    <string name="otoMarket_btn">Oto &amp; Yapı Market</string>
+    <string name="evYasam_btn">Ev &amp; Yaşam</string>
+    <string name="supermarket_btn">Süpermarket</string>
+    <string name="anneCocuk_btn">Anne &amp; Çocuk</string>
+    <string name="kozmetik_btn">Kozmetik</string>
+    <string name="hizliMarket_btn">Hızlı Market</string>
+    <string name="hizmetleriKesfetText">Hizmetlerimizi Keşfet</string>
+    <string name="isYerineOzel">İş Yerine Özel</string>
+    <string name="alSatKazan">Al,Sat,Kazan</string>
+    <string name="tumUrunler">Tüm Ürünler!</string>
+    <string name="yemek">Yemek</string>
+    <string name="sanaOzelUrunler">Sana Özel Ürünler</string>
+
+    <!-- BottomSheet Text -->
+    <string name="anasayfa">Anasayfa</string>
+    <string name="trendyolGo">Trendyol Go</string>
+    <string name="favorilerim">Favorilerim</string>
+    <string name="sepetim">Sepetim</string>
+    <string name="hesabim">Hesabım</string>
+
+    <!-- Card Text -->
+    <string name="cardText1">Hızlı Teslimat</string>
+
+    <!-- Menu Text -->
+    <string name="menuTitle1">Anasayfa</string>
+    <string name="menuTitle2">Trendyol Go</string>
+    <string name="menuTitle3">Favorilerim</string>
+    <string name="menuTitle4">Sepetim</string>
+    <string name="menuTitle5">Hesabım</string>
+
+
+</resources>
